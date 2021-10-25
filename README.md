@@ -1,4 +1,4 @@
-## NFL-Revenue-Residual-Analysis
+## NFL-Revenue-Residual-Analysis (OUTLIER IDENTIFICATION)
 
 The File NFLValues.xlsx show the annual revenue ($ millions) and the estimated
 team value ($ millions) for the 32 teams in the National Football League. In this exercise, a scatter diagram is createdd and residual analysis is conducted to identfy outliers and/or influential observations in the data, the estimated regression equation that can be used to predict team value given the value of annual revenue is created.
